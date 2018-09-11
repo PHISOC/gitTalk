@@ -18,6 +18,7 @@ from django.http import HttpResponse
 def pinnacleScraper(request):
 	url = "http://api.betmonitoring.com/pinnacle/baseball"
 	response = requests.get(url)
+	print("Lol")
 	print (response.status_code)
 	return HttpResponse(response,content_type = 'application/json; charset=utf8')
 
