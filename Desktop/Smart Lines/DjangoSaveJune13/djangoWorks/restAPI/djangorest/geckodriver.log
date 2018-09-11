@@ -1,0 +1,197 @@
+1529628145211	geckodriver	INFO	geckodriver 0.21.0
+1529628145228	geckodriver	INFO	Listening on 127.0.0.1:58845
+1529628436466	geckodriver	INFO	geckodriver 0.21.0
+1529628436472	geckodriver	INFO	Listening on 127.0.0.1:58892
+1529631622004	geckodriver	INFO	geckodriver 0.21.0
+1529631622021	geckodriver	INFO	Listening on 127.0.0.1:49772
+1529631786558	geckodriver	INFO	geckodriver 0.21.0
+1529631786579	geckodriver	INFO	Listening on 127.0.0.1:49801
+1529632120465	geckodriver	INFO	geckodriver 0.21.0
+1529632120489	geckodriver	INFO	Listening on 127.0.0.1:49977
+1529632121483	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/pm/kgx_63ws4gd6ssn6bbqhqbg80000gn/T/rust_mozprofile.7st6JBkToWLN"
+2018-06-22 01:48:45.152 plugin-container[1029:21045] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9837, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-06-22 01:48:45.834 plugin-container[1030:21108] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x963b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1529632126438	Marionette	INFO	Listening on port 49984
+1529632126501	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-06-22 01:48:57.188 plugin-container[1033:21397] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9a43, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1529632189265	geckodriver	INFO	geckodriver 0.21.0
+1529632189276	geckodriver	INFO	Listening on 127.0.0.1:50063
+1529632190289	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/pm/kgx_63ws4gd6ssn6bbqhqbg80000gn/T/rust_mozprofile.souE1xAZUPDU"
+2018-06-22 01:49:53.606 plugin-container[1051:22888] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9a3b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-06-22 01:49:54.294 plugin-container[1052:22954] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x953b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1529632194675	Marionette	INFO	Listening on port 50074
+1529632194752	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-06-22 01:50:55.193 plugin-container[1068:23584] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9637, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1531272721752	geckodriver	INFO	geckodriver 0.21.0
+1531272721764	geckodriver	INFO	Listening on 127.0.0.1:64898
+1531272722748	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/pm/kgx_63ws4gd6ssn6bbqhqbg80000gn/T/rust_mozprofile.gYmJP5Upjtay"
+2018-07-11 01:32:05.193 plugin-container[3976:421370] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x953f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-07-11 01:32:05.234 plugin-container[3977:421391] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9a2f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1531272725526	Marionette	INFO	Listening on port 64905
+1531272725575	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-07-11 01:32:06.505 plugin-container[3978:421514] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9137, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript warning: https://mobile.bet365.com/js/min/20180710104207/all.js, line 4: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://mobile.bet365.com/betslip/javascript/min/20180705124918/betslip.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://mobile.bet365.com/js/min/20180710104207/liveAlerts/all.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://mobile.bet365.com/js/min/20180710104207/iscroll-lite.js, line 3: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+2018-07-11 01:32:09.970 plugin-container[3976:421370] Warning: did not get back bottom left metric
+2018-07-11 01:32:09.970 plugin-container[3976:421370] Warning: did not get back top right metric
+2018-07-11 01:32:09.973 plugin-container[3976:421370] Warning: did not get back bottom left metric
+2018-07-11 01:32:09.973 plugin-container[3976:421370] Warning: did not get back top right metric
+2018-07-11 01:32:09.973 plugin-container[3976:421370] Warning: did not get back bottom left metric
+2018-07-11 01:32:09.973 plugin-container[3976:421370] Warning: did not get back top right metric
+2018-07-11 01:32:09.974 plugin-container[3976:421370] Warning: did not get back bottom left metric
+2018-07-11 01:32:09.974 plugin-container[3976:421370] Warning: did not get back top right metric
+2018-07-11 01:32:10.089 plugin-container[3976:421370] Warning: did not get back bottom left metric
+2018-07-11 01:32:10.089 plugin-container[3976:421370] Warning: did not get back top right metric
+JavaScript warning: https://mobile.bet365.com/js/min/20180710104207/wideView.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://mobile.bet365.com/js/min/20180710104207/coupons.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://mobile.bet365.com/js/min/20180710104207//v6/v6ScrollerSetup.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://mobile.bet365.com/js/min/20180710104207//v6/v6Racing.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://mobile.bet365.com/js/min/20180710104207//v6/v6Soccer.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://mobile.bet365.com/js/min/20180710104207/splash.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://mobile.bet365.com/js/min/20180710104207/preMatchStatsController.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://mobile.bet365.com/js/min/20180710104207/all.js, line 4: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://mobile.bet365.com/betslip/javascript/min/20180705124918/betslip.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://mobile.bet365.com/js/min/20180710104207/liveAlerts/all.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://mobile.bet365.com/js/min/20180710104207/iscroll-lite.js, line 3: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://mobile.bet365.com/js/min/20180710104207/preMatchStatsController.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://mobile.bet365.com/js/min/20180710104207/coupons.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://mobile.bet365.com/js/min/20180710104207//v6/v6ScrollerSetup.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://mobile.bet365.com/js/min/20180710104207//v6/v6Racing.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://mobile.bet365.com/js/min/20180710104207//v6/v6Soccer.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://mobile.bet365.com/js/min/20180710104207/splash.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://mobile.bet365.com/js/min/20180710104207/wideView.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1531290904227	geckodriver	INFO	geckodriver 0.21.0
+1531290904234	geckodriver	INFO	Listening on 127.0.0.1:61728
+1531290905227	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/pm/kgx_63ws4gd6ssn6bbqhqbg80000gn/T/rust_mozprofile.JZ28y6wnE9cR"
+2018-07-11 06:35:07.259 plugin-container[5673:579685] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x973f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-07-11 06:35:07.653 plugin-container[5674:579714] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x973f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1531290907949	Marionette	INFO	Listening on port 61735
+1531290908006	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-07-11 06:35:08.799 plugin-container[5675:579834] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9337, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript warning: https://pchat.bodog.eu/netagent/proactive/proactive.aspx, line 2: unreachable code after return statement
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1531290966641	geckodriver	INFO	geckodriver 0.21.0
+1531290966656	geckodriver	INFO	Listening on 127.0.0.1:61835
+1531290967657	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/pm/kgx_63ws4gd6ssn6bbqhqbg80000gn/T/rust_mozprofile.CM3uuqYyeiJC"
+2018-07-11 06:36:09.250 plugin-container[5691:580684] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9737, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-07-11 06:36:09.658 plugin-container[5692:580711] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9537, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1531290969844	Marionette	INFO	Listening on port 61843
+1531290969933	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-07-11 06:36:10.908 plugin-container[5693:580837] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9233, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript warning: https://pchat.bodog.eu/netagent/proactive/proactive.aspx, line 2: unreachable code after return statement
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1531293317383	geckodriver	INFO	geckodriver 0.21.0
+1531293317396	geckodriver	INFO	Listening on 127.0.0.1:63542
+1531293318357	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/pm/kgx_63ws4gd6ssn6bbqhqbg80000gn/T/rust_mozprofile.jYRAwOEaHg4y"
+2018-07-11 07:15:20.911 plugin-container[6068:601667] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x983b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-07-11 07:15:21.167 plugin-container[6069:601692] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9733, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1531293321390	Marionette	INFO	Listening on port 63550
+1531293321448	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-07-11 07:15:22.197 plugin-container[6070:601844] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9137, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript warning: https://pchat.bodog.eu/netagent/proactive/proactive.aspx, line 2: unreachable code after return statement
+JavaScript error: jar:file:///Applications/Firefox.app/Contents/Resources/browser/omni.ja!/components/nsBrowserGlue.js, line 1033: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIAppShellService.hiddenDOMWindow]
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1531293344708	addons.productaddons	WARN	Failed downloading XML, status: 0, reason: error
+1531293344728	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1531293344734	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1531293358650	geckodriver	INFO	geckodriver 0.21.0
+1531293358660	geckodriver	INFO	Listening on 127.0.0.1:63631
+1531293359655	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/pm/kgx_63ws4gd6ssn6bbqhqbg80000gn/T/rust_mozprofile.e3ufduCRZwxy"
+2018-07-11 07:16:01.229 plugin-container[6076:602401] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9837, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-07-11 07:16:01.561 plugin-container[6077:602425] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9733, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1531293361935	Marionette	INFO	Listening on port 63639
+1531293362036	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-07-11 07:16:02.446 plugin-container[6078:602553] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9437, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript warning: https://pchat.bodog.eu/netagent/proactive/proactive.aspx, line 2: unreachable code after return statement
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1531456828468	geckodriver	INFO	geckodriver 0.21.0
+1531456828482	geckodriver	INFO	Listening on 127.0.0.1:62806
+1531456829456	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/pm/kgx_63ws4gd6ssn6bbqhqbg80000gn/T/rust_mozprofile.WXrWjofh78es"
+2018-07-13 04:40:32.522 plugin-container[19148:1411928] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9537, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-07-13 04:40:32.996 plugin-container[19149:1411955] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x963b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1531456833575	Marionette	INFO	Listening on port 62814
+2018-07-13 04:40:33.598 plugin-container[19150:1412056] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9337, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1531456833627	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://mobile.bet365.com/js/min/20180712161205/all.js, line 4: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://mobile.bet365.com/betslip/javascript/min/20180712100549/betslip.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://mobile.bet365.com/js/min/20180712161205/liveAlerts/all.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://mobile.bet365.com/js/min/20180712161205/iscroll-lite.js, line 3: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+2018-07-13 04:40:37.885 plugin-container[19149:1411955] Warning: did not get back bottom left metric
+2018-07-13 04:40:37.885 plugin-container[19149:1411955] Warning: did not get back top right metric
+2018-07-13 04:40:37.887 plugin-container[19149:1411955] Warning: did not get back bottom left metric
+2018-07-13 04:40:37.887 plugin-container[19149:1411955] Warning: did not get back top right metric
+2018-07-13 04:40:37.887 plugin-container[19149:1411955] Warning: did not get back bottom left metric
+2018-07-13 04:40:37.887 plugin-container[19149:1411955] Warning: did not get back top right metric
+2018-07-13 04:40:37.888 plugin-container[19149:1411955] Warning: did not get back bottom left metric
+2018-07-13 04:40:37.888 plugin-container[19149:1411955] Warning: did not get back top right metric
+2018-07-13 04:40:38.028 plugin-container[19149:1411955] Warning: did not get back bottom left metric
+2018-07-13 04:40:38.028 plugin-container[19149:1411955] Warning: did not get back top right metric
+JavaScript warning: https://mobile.bet365.com/js/min/20180712161205/wideView.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://mobile.bet365.com/js/min/20180712161205/coupons.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://mobile.bet365.com/js/min/20180712161205//v6/v6ScrollerSetup.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://mobile.bet365.com/js/min/20180712161205//v6/v6Racing.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://mobile.bet365.com/js/min/20180712161205//v6/v6Soccer.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://mobile.bet365.com/js/min/20180712161205/splash.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1531457035076	geckodriver	INFO	geckodriver 0.21.0
+1531457035083	geckodriver	INFO	Listening on 127.0.0.1:62995
+1531457036075	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/pm/kgx_63ws4gd6ssn6bbqhqbg80000gn/T/rust_mozprofile.fgPaBmUWDRJ2"
+2018-07-13 04:43:58.642 plugin-container[19184:1414050] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x953f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-07-13 04:43:58.858 plugin-container[19185:1414071] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x972f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1531457039061	Marionette	INFO	Listening on port 63002
+1531457039135	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-07-13 04:44:00.653 plugin-container[19186:1414208] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9237, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript warning: https://mobile.bet365.com/js/min/20180712161205/all.js, line 4: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://mobile.bet365.com/betslip/javascript/min/20180712100549/betslip.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+2018-07-13 04:44:03.658 plugin-container[19184:1414050] Warning: did not get back bottom left metric
+2018-07-13 04:44:03.658 plugin-container[19184:1414050] Warning: did not get back top right metric
+2018-07-13 04:44:03.659 plugin-container[19184:1414050] Warning: did not get back bottom left metric
+2018-07-13 04:44:03.659 plugin-container[19184:1414050] Warning: did not get back top right metric
+2018-07-13 04:44:03.660 plugin-container[19184:1414050] Warning: did not get back bottom left metric
+2018-07-13 04:44:03.660 plugin-container[19184:1414050] Warning: did not get back top right metric
+2018-07-13 04:44:03.662 plugin-container[19184:1414050] Warning: did not get back bottom left metric
+2018-07-13 04:44:03.662 plugin-container[19184:1414050] Warning: did not get back top right metric
+JavaScript warning: https://mobile.bet365.com/js/min/20180712161205/liveAlerts/all.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://mobile.bet365.com/js/min/20180712161205/iscroll-lite.js, line 3: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+2018-07-13 04:44:03.805 plugin-container[19184:1414050] Warning: did not get back bottom left metric
+2018-07-13 04:44:03.805 plugin-container[19184:1414050] Warning: did not get back top right metric
+JavaScript warning: https://mobile.bet365.com/js/min/20180712161205/wideView.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://mobile.bet365.com/js/min/20180712161205/coupons.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://mobile.bet365.com/js/min/20180712161205//v6/v6ScrollerSetup.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://mobile.bet365.com/js/min/20180712161205//v6/v6Racing.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://mobile.bet365.com/js/min/20180712161205//v6/v6Soccer.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://mobile.bet365.com/js/min/20180712161205/splash.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
